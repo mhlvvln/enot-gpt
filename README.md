@@ -10,5 +10,5 @@
 1. Установите зависимости
 2. Запустить файл, передав в качестве аргумента путь к .csv-файлу
 ```python
-python optimizer.py <>
+python optimizer.py <filename>
 ```
