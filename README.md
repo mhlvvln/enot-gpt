@@ -9,4 +9,6 @@
 # How to get started
 1. Установите зависимости
 2. Запустить файл, передав в качестве аргумента путь к .csv-файлу
-~~~python optimizer.py <имя файла>~~~
+```python
+python optimizer.py <имя файла>
+```
