@@ -4,6 +4,8 @@
 # Requirements
 - sklearn
 - numpy
+- catboost
+- flask
 - pandas
 
 # How to get started
